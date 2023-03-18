@@ -14,7 +14,7 @@ export default {};
 
 <style>
   .error {
-    background-color: #01708B;
+     background-color: #01708B;
     height: 100vh;
     display: flex;
     justify-content: center;
