@@ -87,7 +87,7 @@ export default {
 
 
   .link {
-    color: red;
+    color:  #01708B;
     text-decoration: none;
     padding: 5px 20px;
     font-size: 25px;
